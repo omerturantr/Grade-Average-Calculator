@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GradeAverage {
+public class Grade_Average_Calculator {
     public static void main(String[] args) {
         float quizResult, midtermExamResult, finalExamResult;
         double gradeAverage;
